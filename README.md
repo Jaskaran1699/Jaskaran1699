@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jaskaran1699
 - 👀 I’m interested in Cyber Security Domain
 - 🌱 I’m currently learning Core concepts of Cyber Security from IBM experts.
-- 💞️ I think that mistake are proof that you are trying to learn new things.
+- 💞️ I think that mistakes are proof that you are trying to learn new things.
 - 📫 ---- Never Give up ----- 
 - 😄 Pronouns: ...Jass 
 
